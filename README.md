@@ -1,5 +1,4 @@
 # fitness-progress-tracker
-A Python‑based fitness progress tracker to log daily workouts, monitor weight loss, and visualize results with charts — built for sustainable, no‑equipment routines.
 # Fitness Progress Tracker 🏋️‍♀️
 
 This project is a **personal fitness tracking tool** designed to help you stay consistent, motivated, and data‑driven on your health journey.  
