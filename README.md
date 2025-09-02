@@ -17,5 +17,5 @@ I’m using this tracker to go from **73 kg to 50 kg** through daily bodywei
 
 ## 🚀 Getting Started
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/EmanFit/fitness-progress-tracker.git
+git clone
+https://github.com/EmanFit/fitness-progress-tracker.git
