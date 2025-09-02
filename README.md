@@ -1,4 +1,5 @@
 # fitness-progress-tracker
+
 # Fitness Progress Tracker 🏋️‍♀️
 
 This project is a **personal fitness tracking tool** designed to help you stay consistent, motivated, and data‑driven on your health journey.  
